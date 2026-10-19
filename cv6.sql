@@ -1,0 +1,1 @@
+--acit , atomicita (), consitencia, isolacia (zmena nie je viditelna az do commit), durability(zmeny su trvale)
